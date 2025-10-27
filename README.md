@@ -4,7 +4,7 @@
 
 | Tool | Before | After | Improvement |
 |------|--------|-------|-------------|
-| **Pylint** | 4.80/10 | **8.13/10** | **+3.33 points** |
+| **Pylint** | 4.80/10 | **9.86/10** | **+5.06 points** |
 | **Bandit Issues** | 2 | **0** | **100% fixed** |
 | **Flake8 Issues** | 10+ | **0** | **100% fixed** |
 
