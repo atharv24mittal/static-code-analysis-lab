@@ -1,4 +1,3 @@
-# Final Flake8 Report - PERFECT RESULTS
 $ flake8 inventory_system.py
 
 # NO OUTPUT - This means ZERO issues found! 
