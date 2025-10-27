@@ -1,6 +1,6 @@
 import json
 from datetime import datetime
- 
+
 # Global variable to store inventory data
 stock_data = {}
 
