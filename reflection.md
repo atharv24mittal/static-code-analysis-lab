@@ -110,7 +110,7 @@ Create custom rules based on project-specific needs
 
 Regular tool updates and configuration reviews
 
-4. What tangible improvements did you observe in the code quality, readability, or potential robustness after applying the fixes?
+## 4. What tangible improvements did you observe in the code quality, readability, or potential robustness after applying the fixes?
 Security Improvements:
 Eliminated Critical Risks:
 
