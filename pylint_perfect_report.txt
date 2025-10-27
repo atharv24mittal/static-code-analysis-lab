@@ -1,8 +1,0 @@
-************* Module inventory_system
-inventory_system.py:346:0: C0305: Trailing newlines (trailing-newlines)
-inventory_system.py:72:0: R0911: Too many return statements (7/6) (too-many-return-statements)
-inventory_system.py:173:8: W0603: Using the global statement (global-statement)
-
-------------------------------------------------------------------
-Your code has been rated at 9.79/10 (previous run: 9.86/10, -0.07)
-
